@@ -22,6 +22,5 @@ Here are few of my projects, feel free to explore and help me improve them! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/manasvijain06)
 
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/manasvijain_06/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:manasvijain61104@gmail.com)
